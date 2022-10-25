@@ -1,2 +1,2 @@
 # Atlas
-Atlas in a drum machine.
+Atlas is a drum machine.
